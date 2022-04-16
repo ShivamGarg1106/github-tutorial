@@ -1,1 +1,2 @@
 Hello there
+Git seems nice to work with but its very confusing
